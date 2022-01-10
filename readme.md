@@ -1,5 +1,32 @@
-# FCC Test Suite Template
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+# My first code review
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+>This is the first code review I will be performing.
+
+## Built With
+
+- html, css
+
+
+## Author
+
+👤 **Miguel Fermín**
+
+- GitHub: [@ferminmu26](https://github.com/ferminmu26)
+- Twitter: [@ferminmu26](https://twitter.com/ferminmu26)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/mejfa)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
